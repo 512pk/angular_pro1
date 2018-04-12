@@ -1,0 +1,21 @@
+{
+  "name": "angular_pro1",
+  "authors": [
+    "Pallavi <'kedarpallavim@gmail.com'>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "angular": "^1.6.9"
+  }
+}
